@@ -1,6 +1,14 @@
 /***
  *Task 1: Expand Characters in a String
  *Given a string containing characters followed by digits, expand each character by repeating it according to the digit that follows.
+ *Example 1:
+           ● Input: "a1b4c3"
+           ● Output: "abbbbccc"
+           ● Explanation:
+           The character 'a' is followed by 1, so it appears once.
+           The character 'b' is followed by 4, so it appears four times: "bbbb".
+           The character 'c' is followed by 3, so it appears three times: "ccc".
+           The final output is "abbbbccc".
  * Owner = TanujYadav
  * Date = 09/02/2024
  */
